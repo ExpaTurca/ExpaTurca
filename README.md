@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Furkan Akgün</h1>
 <h3 align="center">I'm a full-stack web and unity game developer</h3>
 
-- 🌱 I’m currently takin this courses: **AWS, Python**
+- 🌱 I’m currently taking this courses: **AWS, Python, Web Development BootCamp**
 
 - 📫 How to reach me **akgunmuhammed.95@protonmail.com**
 
