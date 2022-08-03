@@ -6,9 +6,8 @@
 - 📫 How to reach me **akgunmuhammed.95@protonmail.com**
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=expaturca&show_icons=true&locale=en&layout=compact" alt="expaturca" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=expaturca&show_icons=true&locale=en&layout=compact" width="70%" alt="expaturca" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=expaturca&label=Profile%20views&color=0e75b6&style=flat" alt="expaturca" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
