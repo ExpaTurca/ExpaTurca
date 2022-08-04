@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Furkan Akgün</h1>
+<h1 align="center">Hi, I'm Muhammed Furkan Akgün</h1>
 <h3 align="center">I'm a full-stack web and unity game developer</h3>
 
 - 🌱 I’m currently taking this courses: **AWS, Python, Web Development BootCamp**
