@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Muhammed Furkan Akgün</h1>
 <h3 align="center">I'm a full-stack web developer</h3>
 
-- 🌱 I’m currently taking this courses: **AWS, Python, Web Development BootCamp**
-
 - 📫 How to reach me **akgunmuhammed.95@protonmail.com**
 
 <p align="center">
